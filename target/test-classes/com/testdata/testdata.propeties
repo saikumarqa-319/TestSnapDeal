@@ -1,0 +1,6 @@
+URL = https://snapdeal.com/
+Browser = Edge
+
+
+Home_searchbar = "(.//*[@id='inputValEnter'or @name='keyword'])[1]"
+searchButton = "//span[@class='searchTextSpan']"
